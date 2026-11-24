@@ -1,7 +1,7 @@
 {
  "name": "Urban Chic Apartments",
  "short_name": "Urban Chic",
- "start_url": "index.html",
+ "start_url": "./",
  "display": "browser",
  "background_color": "#002d3a",
  "theme_color": "#002d3a",
